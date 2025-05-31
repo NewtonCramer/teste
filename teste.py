@@ -1,3 +1,3 @@
 for i in range(10):
     if i % 2 == 0:
-        print("local", i)
+        print("modificação no repositório", i)
